@@ -1,15 +1,8 @@
-[![Bower version](https://badge.fury.io/bo/faye-client.svg)](http://badge.fury.io/bo/faye-client)
-[![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/se-panfilov/faye-client/blob/master/LICENSE)
-
 # faye-client
 
 #WTF?
 
 Distribution of [faye][1] (browser side only) for [bower][2] package manager
-
-#Installation
-
-`bower install faye-client --save`
 
 #Why new repo?
 Faye's repo owner [didn't want][3] to take any deals with bower.

@@ -1,21 +1,14 @@
 {
   "name": "faye-client",
-  "version": "1.1.2",
+  "version": "1.2.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/se-panfilov/faye-client.git"
+    "url": "git://github.com/jst10/faye-client.git"
   },
-  "homepage": "https://github.com/se-panfilov/faye-client",
+  "homepage": "https://github.com/jst10/faye-client",
   "bugs": {
-    "url": "https://github.com/se-panfilov/faye-client/issues"
+    "url": "https://github.com/jst10/faye-client/issues"
   },
-  "authors": [
-    {
-      "name": "Sergey Panfilov",
-      "email": "se-panfilov@ya.ru",
-      "url": "https://se-panfilov.github.io"
-    }
-  ],
   "description": "Distribution of faye-browser for bower package manager",
   "main": "dist/faye-browser.js",
   "keywords": [
